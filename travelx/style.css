@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Original+Surfer&display=swap');
+*{
+    /* font-family: 'Original Surfer', cursive; */
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+.navbar{
+    position: absolute;
+    top:0;
+    left:0;
+    right:0;
+}
+.btn-1{
+    background-color: #00c6f2;
+    padding: 0.7rem;
+    border-radius: 2rem;
+    font-weight: bold;
+}
+.velx{
+    color: #00c6f2;
+}
+t-1{
+    font-size: 1.5rem;
+}
+.text-area{
+   
+    height: 100vh;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.7);
+
+}
+.header{
+    background-image: url("travel.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
+
+
+
+.image-hero{
+    background-image: url("https://images.pexels.com/photos/753626/pexels-photo-753626.jpeg?cs=srgb&dl=pexels-julius-silver-753626.jpg&fm=jpg");
+    height: 40vh;
+    background-position: center;
+    background-size: cover;
+}
+.overlay{
+    height: 40vh;
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
+.image-card{
+    height: 50vh;
+}
+
+.input{
+    height: 3.5rem;
+    width: 50vw;
+    border: 3px solid #00c6f2 ;
+    border-radius: 5rem;
+    margin-bottom: 0.5rem;
+}
+
+footer{
+    background-color: #1e2021;
+    color: white;
+    font-size: 1.1rem;
+    padding-top: 3.5rem;
+    text-align: center;
+
+    height: 35vh;
+    
+}
